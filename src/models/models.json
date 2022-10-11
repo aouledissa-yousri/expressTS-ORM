@@ -1,0 +1,6 @@
+[
+    {
+        "model": "User",
+        "path": "src/models/User/user.prisma"
+    }
+]
